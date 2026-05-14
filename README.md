@@ -1,5 +1,4 @@
 ```
-
 ░██████╗███████╗░█████╗░██╗░░░██╗██████╗░███████╗
 ██╔════╝██╔════╝██╔══██╗██║░░░██║██╔══██╗██╔════╝
 ╚█████╗░█████╗░░██║░░╚═╝██║░░░██║██████╔╝█████╗░░
@@ -24,9 +23,9 @@
 
 <div align="center">
 
-# Secure Login System :)
+# Secure Login System ;)
 
-***with Attack Prevention!***
+***with Attack Prevention.***
 
 *A full-stack authentication system engineered with security-first principles —
 brute force protection, JWT authentication, and encrypted credential storage.*
@@ -37,9 +36,7 @@ brute force protection, JWT authentication, and encrypted credential storage.*
 
 &nbsp;
 
-═══════════════════════════════════════════════════════════
-OVERVIEW
-═══════════════════════════════════════════════════════════
+════════════════════  OVERVIEW  ════════════════════
 
 This project is a production-ready secure authentication system built as part of an internship at **IncodeVision**. It demonstrates real-world security practices including password hashing, stateless JWT-based sessions, account lockout mechanisms, and API rate limiting — all integrated into a clean, modern full-stack application.
 
@@ -47,9 +44,7 @@ The system is designed to resist common attack vectors such as brute force login
 
 &nbsp;
 
-═══════════════════════════════════════════════════════════
-OBJECTIVES
-═══════════════════════════════════════════════════════════
+════════════════════  OBJECTIVES  ════════════════════
 
 - Implement secure user registration and login with encrypted password storage
 - Issue and verify JWT tokens for stateless session management
@@ -60,9 +55,7 @@ OBJECTIVES
 
 &nbsp;
 
-═══════════════════════════════════════════════════════════
-TOOLS & TECHNOLOGIES
-═══════════════════════════════════════════════════════════
+════════════════════  TOOLS & TECHNOLOGIES  ════════════════════
 
 &nbsp;
 
@@ -87,9 +80,7 @@ TOOLS & TECHNOLOGIES
 
 &nbsp;
 
-═══════════════════════════════════════════════════════════
-PROJECT STRUCTURE
-═══════════════════════════════════════════════════════════
+════════════════════  PROJECT STRUCTURE  ════════════════════
 
 ```
 secure-login-system/
@@ -133,9 +124,7 @@ secure-login-system/
 
 &nbsp;
 
-═══════════════════════════════════════════════════════════
-IMPLEMENTATION
-═══════════════════════════════════════════════════════════
+════════════════════  IMPLEMENTATION  ════════════════════
 
 &nbsp;
 
@@ -169,9 +158,7 @@ The frontend `ProtectedRoute` component checks for a valid token in localStorage
 
 &nbsp;
 
-═══════════════════════════════════════════════════════════
-SCREENSHOTS
-═══════════════════════════════════════════════════════════
+════════════════════  SCREENSHOTS  ════════════════════
 
 &nbsp;
 
@@ -207,9 +194,7 @@ SCREENSHOTS
 
 &nbsp;
 
-═══════════════════════════════════════════════════════════
-GETTING STARTED
-═══════════════════════════════════════════════════════════
+════════════════════  GETTING STARTED  ════════════════════
 
 **1. Clone the repository**
 
@@ -267,9 +252,7 @@ http://localhost:5173
 
 &nbsp;
 
-═══════════════════════════════════════════════════════════
-CONCLUSION
-═══════════════════════════════════════════════════════════
+════════════════════  CONCLUSION  ════════════════════
 
 This project demonstrates how layered security measures work together in a real application. Rather than treating security as an afterthought, each component — from password hashing to route protection — was designed with a specific threat in mind.
 
